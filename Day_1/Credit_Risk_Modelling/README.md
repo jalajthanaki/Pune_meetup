@@ -4,7 +4,7 @@ We are building ML model which can help us in order get an idea, whether a perso
 
 ## Dependency Libraries
 
-* Python 2.7
+* Python 2.7 or Python 3.3+
 * pandas
 * numpy
 * scipy
