@@ -9,7 +9,7 @@ This repository contains the codes for 4-days workshop event which is held at pu
 ### Day 1: 5th July, 2018
 
 * 1st Half: [Credit – Risk Modelling (3 hours)](https://github.com/jalajthanaki/Pune_meetup/tree/master/Day_1/Credit_Risk_Modelling)
-* 2nd Half: [Rule based chatbot (2 hours)]()
+* 2nd Half: [Rule based chatbot (2 hours)](https://github.com/jalajthanaki/Pune_meetup/tree/master/Day_1/Rule_based_chatbot)
 
 ### Day 2: 6th July, 2018
 
