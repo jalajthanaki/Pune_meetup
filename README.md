@@ -13,9 +13,9 @@ This repository contains the codes for 4-days workshop event which is held at pu
 
 ### Day 2: 6th July, 2018
 
-* 1st Half: [Movie Recommendation Engine (3 hours)]()
-* 2nd Half: [Sentiment Analysis (1 hour)]()
-* 2nd Half: [Face Recognition (1 hour)]()
+* 1st Half: [Movie Recommendation Engine (3 hours)](https://github.com/jalajthanaki/Pune_meetup/tree/master/Day_2/Movie_recommendation_engine)
+* 2nd Half: [Sentiment Analysis (1 hour)](https://github.com/jalajthanaki/Pune_meetup/tree/master/Day_2/Sentiment_Analysis)
+* 2nd Half: [Face Recognition (1 hour)](https://github.com/jalajthanaki/Pune_meetup/tree/master/Day_2/Face_recognition)
 
 ### Day 3: 7th July, 2018
 
