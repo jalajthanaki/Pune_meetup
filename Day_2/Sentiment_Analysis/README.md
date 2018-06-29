@@ -12,6 +12,10 @@ I have built a model which will predict the sentiment of movie reviews. I used N
 * matplotlib
 * jupyter notebook
 
+## Download dataset 
+You can access the IDbm dataset form [here](http://ai.stanford.edu/~amaas/data/sentiment/)
+
+
 ## Installation Commands
 I'm working on Linux OS (Ubuntu 16.04 LTS) so command for installation all dependencies are given below.
 
