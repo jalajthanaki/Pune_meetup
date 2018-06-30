@@ -25,7 +25,7 @@ This repository contains the codes for 4-days workshop event which is held at pu
 
 ### Day 4: 8th July, 2018
 
-* 1st Half: [Question-Answering system / Chatbot (2 - 3 hours)]()
+* 1st Half: [Question-Answering system / Chatbot (2 - 3 hours)](https://github.com/jalajthanaki/Pune_meetup/tree/master/Day_4/Chatbot_based_on_bAbI_dataset_using_Keras)
 * 2nd Half: [Cloud platform usage (1 hour)]()
 
 
