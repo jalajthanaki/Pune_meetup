@@ -32,7 +32,7 @@ This repository contains the codes for 4-days workshop event which is held at pu
 ## Notes
 
 * You can access the code by clicking on the links which is given in `Workshop Details` section. 
-* Installation related information is given in respected application folders. 
+* Installation related information is given `README.md` in each of the respected application folders. 
 
 
 ## Special Thanks 
