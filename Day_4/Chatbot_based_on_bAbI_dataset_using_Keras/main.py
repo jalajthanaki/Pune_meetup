@@ -246,13 +246,13 @@ model.compile(optimizer='rmsprop', loss='categorical_crossentropy',
               metrics=['accuracy'])
 
 if load_model == 1:
-    model = keras.models.load_model('model.h5')
+    model = keras.models.load_model('model_99_acc.h5')
 
 if train_model == 1:
     # train, batch_size = 32 and epochs = 120
     model.fit([inputs_train, queries_train], answers_train, batch_size, train_epochs,
           validation_data=([inputs_test, queries_test], answers_test))
-    model.save('model.h5')
+    model.save('model_99_acc.h5')
 
 if test_qualitative == 1:
     print('-------------------------------------------------------------------------------------------')
