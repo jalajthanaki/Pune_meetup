@@ -27,6 +27,9 @@ wheels/
 *.egg
 MANIFEST
 .idea/
+doc2vecdata/model_new.bin
+text8
+gameofthrones2vec/trained/thrones2vec_new.w2v
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
