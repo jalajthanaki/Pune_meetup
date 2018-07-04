@@ -20,7 +20,7 @@ This repository contains the codes for 4-days workshop event which is held at pu
 ### Day 3: 7th July, 2018
 
 * 1st Half: [Word2vec (2 hours 30 mins)](https://github.com/jalajthanaki/Pune_meetup/tree/master/Day_3/Word2Vec)
-* 2nd Half: [RNN (2 hours 30 mins)]()
+
 
 
 ### Day 4: 8th July, 2018
